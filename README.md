@@ -42,5 +42,6 @@ nodemon app.js
 cd client
 npm run dev
 ```
+### Screenshot of UI:
 
 ![Screenshot of the application](screenshot.png)
