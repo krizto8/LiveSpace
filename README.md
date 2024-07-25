@@ -9,6 +9,7 @@ Welcome to LiveSpace, a modern real estate web application built with React. Liv
 - Favorites: Save favorite properties for easy access later.
 - Responsive Design: Optimized for desktop and mobile devices.
 - Interactive Maps: View property locations on an interactive map.
+- Simple UI: Experience a live animation background and simple user experience
   
 ## Installation
 ### Clone the repository:
